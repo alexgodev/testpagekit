@@ -1,0 +1,15 @@
+{
+  "name": "alexgodev/registeredusers",
+  "version": "0.1",
+  "type": "pagekit-extension",
+  "title": "Shows Registered Users",
+  "description": "Shows Registered Users",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "alexgodev"
+    }
+  ],
+  "require": {
+  }
+}
